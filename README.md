@@ -1,6 +1,5 @@
-# Gaming App Insights & Performance Metrics
-Below is a **professional interactive `README.md`** you can directly paste into your GitHub repository for
-**Gaming-App-Insights-Performance-Metrics**.
+
+**Gaming App Insights & Performance Metrics**.
 It includes **badges, dashboard previews, sections, and a professional portfolio layout**. 🚀
 
 ---
