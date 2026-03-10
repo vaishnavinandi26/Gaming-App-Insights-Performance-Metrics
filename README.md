@@ -1,9 +1,4 @@
 
-**Gaming App Insights & Performance Metrics**.
-It includes **badges, dashboard previews, sections, and a professional portfolio layout**. 🚀
-
----
-
 # 🎮 Gaming App Insights & Performance Metrics
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
